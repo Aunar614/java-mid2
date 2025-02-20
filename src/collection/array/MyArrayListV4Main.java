@@ -16,5 +16,7 @@ public class MyArrayListV4Main {
         intList.add(3);
         Integer integer = intList.get(0);
         System.out.println("integer = " + integer);
+
+
     }
 }
